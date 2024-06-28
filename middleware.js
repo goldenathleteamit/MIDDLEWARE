@@ -1,3 +1,4 @@
+//middleware is a func. used to modify req,res. used for authentication .
 const express=require('express');
 const  app=express();
 
